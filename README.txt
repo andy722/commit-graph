@@ -1,0 +1,1 @@
+Constructs a graph of commit count by date based on VCS log.
